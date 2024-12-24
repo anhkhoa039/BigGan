@@ -23,7 +23,7 @@ Modify the `config.py`
 
 ### 3. Run
 ```
-python main.py
+python src/main.py
 ```
 ### 4. Generate Images
 - Run the `Inference.ipynb` notebook
