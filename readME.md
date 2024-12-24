@@ -28,5 +28,13 @@ python main.py
 ### 4. Generate Images
 - Run the `Inference.ipynb` notebook
 
+### Visualize
+![Images](assert/airplan.png)
+
+### Training Logs
+<video width="320" height="240" controls>
+  <source src="assert/training_log.mov" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 # Reference:
 - Most of the code is inspired from this notebook: [kaggle notebook](https://www.kaggle.com/code/tikutiku/gan-dogs-starter-biggan)
