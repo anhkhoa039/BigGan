@@ -34,7 +34,7 @@ python src/main.py
 ### Training Logs  
 
 <video width="320" height="240" controls>
-  <source src="assert/training_log.mp4" type="video/mp4">
+  <source src="assert/training_log.mov" type="video/mp4">
 </video>  
 
 # Reference:
