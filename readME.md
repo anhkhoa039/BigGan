@@ -31,10 +31,10 @@ python src/main.py
 ### Visualize
 ![Images](assert/airplan.png)
 
-### Training Logs
+### Training Logs  
+
 <video width="320" height="240" controls>
   <source src="assert/training_log.mov" type="video/mp4">
-  Your browser does not support the video tag.
 </video>  
 
 # Reference:
