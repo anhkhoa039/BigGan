@@ -2,6 +2,8 @@
 
 # How to use
 ### 1. Prepare dataset
+- Dataset link: [Data, annotations, and evaluation code](https://www.robots.ox.ac.uk/~vgg/data/fgvc-aircraft/)
+- Prepare dataset structure as below 
 ```
 --- Dataset:  
         |____ class_1_dir  
